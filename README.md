@@ -1,4 +1,4 @@
-# 🧅 eBPF-drop-rfc-3514: Finally, Security Done Right™**
+# 🧅 eBPF-drop-rfc-3514: Finally, Security Done Right™
 
 In a world full of overcomplicated intrusion detection systems, deep packet inspection, machine learning firewalls, and "zero trust" buzzwords, one critical solution has been overlooked — until now.
 

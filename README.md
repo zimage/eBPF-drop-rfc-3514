@@ -36,5 +36,5 @@ or
 ```bash 
 make
 sudo bpftool prog load xdp_ebpf_prog.o /sys/fs/bpf/xdp_evilbit type xdp
-sudo bpftool net attach xdp pinned /sys/fs/bpf/xdp_evilbit dev enp0s1
+sudo bpftool net attach xdp pinned /sys/fs/bpf/xdp_evilbit dev eth0
 ```
